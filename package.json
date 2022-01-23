@@ -1,0 +1,23 @@
+{
+  "name": "security_project",
+  "version": "1.0.0",
+  "description": "This project created by Mohannad, Hala and Leen",
+  "main": "myscript.js",
+  "dependencies": {
+    "mathjs": "^10.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MohaDarkness/RSA_Encryption.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MohaDarkness/RSA_Encryption/issues"
+  },
+  "homepage": "https://github.com/MohaDarkness/RSA_Encryption#readme"
+}
